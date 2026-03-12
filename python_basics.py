@@ -56,3 +56,14 @@ elif score >= 70:
 else:
     print("You need to study!")
 
+#Logical Operators
+age = 20
+has_id = True
+if age >= 18 and has_id:
+    print("You can enter")
+else:
+    print("You can not enter")
+
+day = "Saturday"
+if day == "Saturday" or day == "Sunday":
+    print("It's the weekend!")
