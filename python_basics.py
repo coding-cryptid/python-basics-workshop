@@ -45,7 +45,7 @@ if age >= 18:
 else:
     print("You are a child!")
 
-#Multiple Conditions
+#Multiple Conditions (ORDER MATTERS!!!)
 score = 95
 if score >= 90:
     print("Grade A")
