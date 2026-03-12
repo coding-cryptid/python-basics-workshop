@@ -20,4 +20,5 @@ print(6 * 7)
 print(12 / 2)
 
 #Modulous % (Remainder)
-print(5 % 2)
+print(580 % 2) #EVEN
+print(559 % 2) #ODD
