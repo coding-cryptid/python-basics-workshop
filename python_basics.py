@@ -37,3 +37,22 @@ age = input("Enter your age: ")
 #Ways to connect a string with a integer in between!!!
 print("You are " + age + " years old.")
 print(f"You are {age} years old.")
+
+#Conditional Statements
+age = 20
+if age >= 18:
+    print("You are an adult!")
+else:
+    print("You are a child!")
+
+#Multiple Conditions
+score = 95
+if score >= 90:
+    print("Grade A")
+elif score >= 80:
+    print("Grade B")
+elif score >= 70:
+    print("Grade C")
+else:
+    print("You need to study!")
+
