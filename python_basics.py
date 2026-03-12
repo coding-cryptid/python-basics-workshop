@@ -32,3 +32,8 @@ print(10 <= 8) #CHECKS IF GREATER/LESS OR EQUAL
 #User Input
 name = input("Enter your name: ")
 print("Hello,", name)
+age = input("Enter your age: ")
+
+#Ways to connect a string with a integer in between!!!
+print("You are " + age + " years old.")
+print(f"You are {age} years old.")
