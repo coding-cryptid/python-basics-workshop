@@ -69,6 +69,14 @@ if day == "Saturday" or day == "Sunday":
     print("It's the weekend!")
 
 
+
+
+
+
+
+
+#SMALL BUILDS
+
 #Mini Calculator (CASTING/CONVERTING NUM)
 num1 = int(input("Number1: "))
 num2 = int(input("Number2: "))
