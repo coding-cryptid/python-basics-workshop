@@ -69,7 +69,18 @@ if day == "Saturday" or day == "Sunday":
     print("It's the weekend!")
 
 
-#Calculator
+#Mini Calculator (CASTING/CONVERTING NUM)
 num1 = int(input("Number1: "))
 num2 = int(input("Number2: "))
 print(f"The result is {num1 + num2}!")
+
+#Score Checker
+score = int(input("Enter your exam score: "))
+if score >= 90:
+    print("Excellent!")
+elif score >= 80:
+    print("Good Job!")
+elif score >= 70:
+    print("Good Effort!")
+else:
+    print("Study More!")
