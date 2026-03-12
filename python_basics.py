@@ -4,16 +4,16 @@ name = "Gianna"
 print("Hello, World!", "My name is", name, "and my age is", age)
 
 
-#Float
+#Float (Decimal)
 price = 9.99
 print("$", price)
 
 
-#Boolean
+#Boolean (t/f)
 is_logged_in = True
 is_admin = False
 
-#Arithmetic Operations + - * / 
+#Arithmetic Operations (+ - * /)
 print(5 + 8)
 print(10 - 4)
 print(6 * 7)
@@ -22,3 +22,10 @@ print(12 / 2)
 #Modulous % (Remainder)
 print(580 % 2) #EVEN
 print(559 % 2) #ODD
+
+#Comparison Operators (== != > < >= <=)
+print(5 == 5) #CHECKS IF EQUAL
+print(4 != 5) #CHECKS IF NOT EQUAL
+print(8 > 10) #CHECKS IF GREATER/LESS
+print(10 <= 8) #CHECKS IF GREATER/LESS OR EQUAL
+
