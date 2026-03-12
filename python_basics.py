@@ -29,3 +29,6 @@ print(4 != 5) #CHECKS IF NOT EQUAL
 print(8 > 10) #CHECKS IF GREATER/LESS
 print(10 <= 8) #CHECKS IF GREATER/LESS OR EQUAL
 
+#User Input
+name = input("Enter your name: ")
+print("Hello,", name)
