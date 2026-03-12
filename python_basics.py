@@ -12,3 +12,12 @@ print("$", price)
 #Boolean
 is_logged_in = True
 is_admin = False
+
+#Arithmetic Operations + - * / 
+print(5 + 8)
+print(10 - 4)
+print(6 * 7)
+print(12 / 2)
+
+#Modulous % (Remainder)
+print(5 % 2)
