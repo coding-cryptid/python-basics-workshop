@@ -67,3 +67,9 @@ else:
 day = "Saturday"
 if day == "Saturday" or day == "Sunday":
     print("It's the weekend!")
+
+
+#Calculator
+num1 = int(input("Number1: "))
+num2 = int(input("Number2: "))
+print(f"The result is {num1 + num2}!")
